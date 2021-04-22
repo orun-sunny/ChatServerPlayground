@@ -1,0 +1,2 @@
+# ChatServerPlayground
+Build a real-time chat website from the ground up using Django Channels and Websockets.By using avascript basics Image cropping with Python and Javacript CSS basics Javascript WebSockets Django Channels 2 Asychronously talk to server backend through javascript Dynamically close and open new sockets on the same page Asynchronously load images with Javascript (while showing a default image) Custom user authentication with django
